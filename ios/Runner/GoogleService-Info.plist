@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>644983599736-dqrf3rmralir0jodofnsnao026tdr3fb.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAhfL98yWEB-n1wTQWuV5ejR9QiKjcKBl8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>644983599736</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.OneQlikPro.ionic</string>
+	<key>PROJECT_ID</key>
+	<string>oneqlikgpsparents</string>
+	<key>STORAGE_BUCKET</key>
+	<string>oneqlikgpsparents.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:644983599736:ios:b9decc655659d171ae738d</string>
+	<key>DATABASE_URL</key>
+	<string>https://oneqlikgpsparents.firebaseio.com</string>
+</dict>
+</plist>

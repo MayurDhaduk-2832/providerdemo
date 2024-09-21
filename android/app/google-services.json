@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "614537963814",
+    "project_id": "qlik-1a39e",
+    "storage_bucket": "qlik-1a39e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614537963814:android:b72f5754ffb09983b279e7",
+        "android_client_info": {
+          "package_name": "com.track.oneclickvts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9lI9rI2tY1e-WNRdh3GaOSjTCXcG5lQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614537963814:android:6c6d58a3b994c005b279e7",
+        "android_client_info": {
+          "package_name": "com.track1.itrackpro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9lI9rI2tY1e-WNRdh3GaOSjTCXcG5lQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614537963814:android:267c207c01ffa832b279e7",
+        "android_client_info": {
+          "package_name": "com.trak.a1tracking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9lI9rI2tY1e-WNRdh3GaOSjTCXcG5lQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614537963814:android:b96e2480e9dcee7cb279e7",
+        "android_client_info": {
+          "package_name": "com.trak.dawntelematics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9lI9rI2tY1e-WNRdh3GaOSjTCXcG5lQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614537963814:android:583a13ed340e3d17b279e7",
+        "android_client_info": {
+          "package_name": "com.trak.itrackrdm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9lI9rI2tY1e-WNRdh3GaOSjTCXcG5lQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614537963814:android:098de8cdeb3947b5b279e7",
+        "android_client_info": {
+          "package_name": "com.trak.itrackrdm140"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9lI9rI2tY1e-WNRdh3GaOSjTCXcG5lQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614537963814:android:e64ae6d9f23bb1eab279e7",
+        "android_client_info": {
+          "package_name": "com.trak.trackmoto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9lI9rI2tY1e-WNRdh3GaOSjTCXcG5lQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
